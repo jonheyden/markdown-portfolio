@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Myself](https://www.rastaimposta.com/DSN/rastaimpostacom/Commerce/ProductImages/lg1_000033.jpg)
